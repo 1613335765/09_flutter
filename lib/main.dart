@@ -207,6 +207,7 @@ class _ScaleAnimationRouteState extends State<ScaleAnimationRoute>
   late Animation<double> animation;
   late AnimationController controller;
 
+
   @override
   initState() {
     super.initState();
